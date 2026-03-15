@@ -27,3 +27,5 @@ This repository contains an end-to-end, machine learning-based cybersecurity app
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ai-phishing-analyzer.git](https://github.com/HarshGarate/AI-Phishing-Analyzer.git)
    cd ai-phishing-analyzer
+
+📄 **Read the full Technical Documentation:** [Download the Project Report (PDF)](./Project_Report.pdf)   
